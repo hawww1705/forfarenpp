@@ -8,3 +8,6 @@ __pycache__/
 # Local Dev Server State
 .DS_Store
 Thumbs.db
+
+.vercel
+.env*
