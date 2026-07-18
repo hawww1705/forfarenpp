@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Dev Server State
+.DS_Store
+Thumbs.db
